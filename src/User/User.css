@@ -1,0 +1,15 @@
+.container{
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.userInput{
+    border: 3px solid burlywood;
+}
+
+
+.userOutput{    
+    border: 2px dashed purple;
+    box-shadow: 2px 3px;
+}
